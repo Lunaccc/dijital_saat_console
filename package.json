@@ -1,0 +1,11 @@
+{
+  "name": "kerem",
+  "version": "0.0.1",
+  "description": "",
+  "main": "saat.js",
+  "scripts": {
+    "test": "saat.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
